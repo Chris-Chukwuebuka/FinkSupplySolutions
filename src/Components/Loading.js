@@ -2,7 +2,7 @@ import React from 'react'
 import { RotatingTriangles } from 'react-loader-spinner'
 const Loading = () => {
   return (
-    <div style={{  textAlign: 'center',  marginTop: '450px'}}>
+    <div style={{  textAlign: 'center',  marginTop: '250px'}}>
        
   <RotatingTriangles
   visible={true}
@@ -16,10 +16,10 @@ const Loading = () => {
 
     <br/>
   <h1 className=' text-secondary fs-3 fw-bolder'>
-    Welcome To FinkSupply
+    Welcome To FinkSupply Solutions
   </h1>
   <p className='text-secondary fs-5 '>
-    Loading...
+    Logistics and freight services.
     
   </p>
     </div>
